@@ -5,5 +5,5 @@
 <br/><br/>
 수업은 전부 gitbook으로 진행하였습니다.
 <br/><br/><br/>
-팀 블로그: https://kau-algorithm.tistory.com/ <br/>
+팀 블로그: https://kau-algorithm.tistory.com/ <br/><br/>
 gitbook : https://70825.gitbook.io/python-study/
