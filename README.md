@@ -7,5 +7,5 @@
 <br/>
 연습문제 소스코드는 필수문제만 제공합니다.
 <br/><br/>
-팀 블로그: https://kau-algorithm.tistory.com/ <br/><br/>
+팀블로그: https://kau-algorithm.tistory.com/ <br/><br/>
 gitbook : https://70825.gitbook.io/python-study/
